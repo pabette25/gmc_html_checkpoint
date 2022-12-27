@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,900&display=swap');
+
 @media screen and (max-width: 960px) {
     header {
         width: 100% !important;
@@ -25,14 +27,14 @@ body {
     padding: 0px;
     margin: 0px;
     background-color: #100c56;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding-top: 1%;
     color: white;
 }
 
 h1 {
     font-size: 3em;
-    font-weight: 300;
+    font-weight: 900;
 }
 
 h2 {
